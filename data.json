@@ -23,92 +23,92 @@
     },
     {
       "key": 4,
-      "index": "J",
-      "name": "Jon",
-      "img": "https://wemakeyousmile.github.io/DataRep/images/libby.jpg",
+      "index": "E",
+      "name": "Ellie Leen",
+      "img": "https://wemakeyousmile.github.io/DataRep/images/ellieleen.jpg",
       "rank": "A"
     },
     {
       "key": 5,
-      "index": "J",
-      "name": "Jon",
-      "img": "https://wemakeyousmile.github.io/DataRep/images/libby.jpg",
-      "rank": "A"
+      "index": "L",
+      "name": "Leah Gotti",
+      "img": "https://wemakeyousmile.github.io/DataRep/images/leahgotti.png",
+      "rank": "B"
     },
     {
       "key": 6,
-      "index": "J",
-      "name": "Jon",
-      "img": "https://wemakeyousmile.github.io/DataRep/images/libby.jpg",
-      "rank": "A"
+      "index": "A",
+      "name": "Alina Lopez",
+      "img": "https://wemakeyousmile.github.io/DataRep/images/alinalopez.jpg",
+      "rank": "B"
     },
     {
       "key": 7,
-      "index": "J",
-      "name": "Jon",
-      "img": "https://wemakeyousmile.github.io/DataRep/images/libby.jpg",
+      "index": "L",
+      "name": "Little Caprice",
+      "img": "https://wemakeyousmile.github.io/DataRep/images/littlecaprice.jpg",
       "rank": "A"
     },
     {
       "key": 8,
-      "index": "J",
-      "name": "Jon",
-      "img": "https://wemakeyousmile.github.io/DataRep/images/libby.jpg",
+      "index": "S",
+      "name": "Stefany Kyler",
+      "img": "https://wemakeyousmile.github.io/DataRep/images/stefanykyler.jpg",
       "rank": "A"
     },
     {
       "key": 9,
-      "index": "J",
-      "name": "Jon",
-      "img": "https://wemakeyousmile.github.io/DataRep/images/libby.jpg",
+      "index": "E",
+      "name": "Evelyn Claire",
+      "img": "https://wemakeyousmile.github.io/DataRep/images/evelynclaire.jpg",
       "rank": "A"
     },
     {
       "key": 10,
-      "index": "J",
-      "name": "Jon",
-      "img": "https://wemakeyousmile.github.io/DataRep/images/libby.jpg",
-      "rank": "A"
+      "index": "H",
+      "name": "Haley Reed",
+      "img": "https://wemakeyousmile.github.io/DataRep/images/haleyreed.jpg",
+      "rank": "B"
     },
     {
       "key": 11,
       "index": "J",
-      "name": "Jon",
+      "name": "",
       "img": "https://wemakeyousmile.github.io/DataRep/images/libby.jpg",
       "rank": "A"
     },
     {
       "key": 12,
       "index": "J",
-      "name": "Jon",
+      "name": "",
       "img": "https://wemakeyousmile.github.io/DataRep/images/libby.jpg",
       "rank": "A"
     },
     {
       "key": 13,
       "index": "J",
-      "name": "Jon",
+      "name": "",
       "img": "https://wemakeyousmile.github.io/DataRep/images/libby.jpg",
       "rank": "A"
     },
     {
       "key": 14,
       "index": "J",
-      "name": "Jon",
+      "name": "",
       "img": "https://wemakeyousmile.github.io/DataRep/images/libby.jpg",
       "rank": "A"
     },
     {
       "key": 15,
       "index": "J",
-      "name": "Jon",
+      "name": "",
       "img": "https://wemakeyousmile.github.io/DataRep/images/libby.jpg",
       "rank": "A"
     },
     {
       "key": 16,
       "index": "J",
-      "name": "Jon",
+      "name": "",
       "img": "https://wemakeyousmile.github.io/DataRep/images/libby.jpg",
       "rank": "A"
     }
