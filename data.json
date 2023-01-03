@@ -111,6 +111,13 @@
       "name": "",
       "img": "https://wemakeyousmile.github.io/DataRep/images/libby.jpg",
       "rank": "A"
+    },
+    {
+      "key": 17,
+      "index": "A",
+      "name": "Anny Walker",
+      "img": "https://wemakeyousmile.github.io/DataRep/images/annywalker.jpg",
+      "rank": "S"
     }
   ]
 }
